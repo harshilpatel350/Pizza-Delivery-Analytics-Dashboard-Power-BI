@@ -10,7 +10,7 @@ The dashboard focuses on **revenue trends, delivery performance, customer behavi
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Pizza Delivery Dashboard.pdf)
+[📄 View Full Dashboard (PDF)](Pizza Delivery Dashboard.pdf)
 
 ---
 
